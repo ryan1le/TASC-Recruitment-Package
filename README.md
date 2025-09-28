@@ -9,9 +9,8 @@ My submission for TASC Communications and Controls team
 3. Go into the cloned directory and the utils folder and build the workspace using `colcon build`.
 4. Go back to the main directory and source the install folder using `source utils/install/setup.bash`.
 5. Open a new terminal and source the install folder again using `source utils/install/setup.bash`.
-6. Then in the first terminal, run `python3 base.py` to start the rover node.
-7. In the second terminal, run `python3 rover.py` to start the base node.
-
+6. Then in the first terminal, run `python3 base.py` to start the base node.
+7. In the second terminal, run `python3 rover.py` to start the rover node.
 
 ## ROS2 RQT Graph:
 
